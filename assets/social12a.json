@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "question": "Indiscipline is a problem in the Ghanaian society because it",
+    "options": ["reduces productivity", "destroys the educational system", "leads to high birth rate", "encourages bribery and corruption"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": "OBJECTIVE TEST [45 minutes]"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a primary activity?",
+    "options": ["Plywood processing", "Fruit canning", "Cocoa cultivation", "Textile production"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 3,
+    "question": "The Akans are believed to have migrated from",
+    "options": ["Old Ghana Empire", "The Chad basin", "Benin Republic", "Ile Ife"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 4,
+    "question": "The most important symbol which identifies Ghana as an independent state is the",
+    "options": ["Speaker’s Mace", "National Flag", "State Sword", "Coat-of-arms"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 5,
+    "question": "Which of the following diseases is caused by pollution of water bodies?",
+    "options": ["River blindness", "Asthma", "Cholera", "Hepatitis B"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 6,
+    "question": "A day is either gained or lost when one moves across longitude",
+    "options": ["180°", "24° E", "15° W", "0°"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 7,
+    "question": "The most cherished value expected of an adolescent in the Ghanaian society is",
+    "options": ["hospitality", "patience", "generosity", "chastity"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 8,
+    "question": "Which of the following cultural practices is a drawback to development in the Ghanaian society?",
+    "options": ["Celebration of festivals", "Naming and outdooring ceremonies", "Belief in the activities of demons", "Performing puberty rites"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 9,
+    "question": "The symbol below on topographic maps represents",
+    "options": ["settlements", "farmlands", "marshy areas", "areas liable to flood"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "assets/social12a1.png",
+    "instruction": " "
+  },
+  {
+    "id": 10,
+    "question": "On a relief map, the colour brown usually represents",
+    "options": ["plains", "mountains", "water bodies", "lowlands"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 11,
+    "question": "An extensive area of lowland is called a",
+    "options": ["ridge", "valley", "plain", "plateau"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 12,
+    "question": "Which of the following vegetation types is not found in Ghana?",
+    "options": ["Sahel woodland", "Guinea savanna", "Mangrove forest", "Tropical rain forest"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 13,
+    "question": "The main type of vegetation found in the south-western part of Ghana is the",
+    "options": ["rain forest", "coastal grassland", "guinea savanna", "mangrove forest"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 14,
+    "question": "Lunar eclipse occurs when the",
+    "options": ["sun comes between the earth and the moon", "moon comes between the sun and the earth", "earth comes between the sun and the moon", "earth rotates on its axis from West to East"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 15,
+    "question": "The type of rainfall formed by the meeting of two air masses of different temperatures is",
+    "options": ["relief", "frontal", "convectional", "orographic"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 16,
+    "question": "Which of the following continents is uninhabited?",
+    "options": ["Asia", "Antarctica", "Australia", "Europe"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 17,
+    "question": "One problem created in the rural areas as a result of rural-urban drift is",
+    "options": ["increase in streetism", "creation of slums", "environmental degradation", "increased incidence of broken homes"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 18,
+    "question": "Which of the following factors may cause rural-urban drift?",
+    "options": ["Better employment opportunities in the urban areas", "Better health facilities in the rural areas", "Even distribution of social amenities in the country", "Absence of recreational facilities in the urban areas"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 19,
+    "question": "Asante was colonized by the British through",
+    "options": ["agreement", "force", "persuasion", "plebiscite"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 20,
+    "question": "Right to life means",
+    "options": ["living forever", "living without interference", "acquiring wealth", "sustaining the family line"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 21,
+    "question": "Independence of the judiciary implies that judges",
+    "options": ["should get everything free", "should not pay taxes", "can do whatever they like", "should be free from political interference"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 22,
+    "question": "One major cause of conflicts in the Ghanaian society is",
+    "options": ["the development of slums in the cities", "inadequate number of law enforcement agents", "the encouragement of inter-ethnic marriages", "unacceptable way of choosing leaders"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 23,
+    "question": "The international organization formed to maintain world peace after the Second World War is known as",
+    "options": ["The League of Nations", "United Nations Organisation", "Commonwealth of Nations", "Non-aligned Movement"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 24,
+    "question": "After independence, Ghana automatically became a member of the",
+    "options": ["African Union", "League of Nations", "Commonwealth of Nations", "Non-Aligned Movement"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 25,
+    "question": "The executive arm of government comprises of the President, the Cabinet and",
+    "options": ["Civil servants", "Lawyers", "the Speaker", "the Chief Justice"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 26,
+    "question": "One way of preventing ethnic conflict in Ghana is through",
+    "options": ["payment of compensation", "creation of jobs", "celebration of festivals", "tolerance and dialogue"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 27,
+    "question": "Family planning is beneficial to Ghanaians because it",
+    "options": ["helps in giving respect and honour to fathers", "increase life expectancy of children", "helps restore the health of mothers", "brings about equitable distribution of income"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 28,
+    "question": "Labour can be productively increased through",
+    "options": ["moral education in society", "training and retraining", "extension of working hours", "people doing sacrificial work"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 29,
+    "question": "One traditional way of preserving fish in Ghana is",
+    "options": ["canning", "freezing", "salting", "boiling"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 30,
+    "question": "One factor responsible for the low rate of economic development in Ghana is",
+    "options": ["misappropriation of state resources", "misuse of individual resources", "increase of taxes on industries", "slow rate of population growth"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 31,
+    "question": "Which of the following means of saving ensures continuity of firms after suffering losses?",
+    "options": ["Treasury bill", "Insurance", "Company shares", "Government bonds"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 32,
+    "question": "Travelling to see and enjoy facilities and sceneries in other places is referred to as",
+    "options": ["leisure", "tourism", "pleasure", "entertainment"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 33,
+    "question": "Workers in Ghana are required by law to contribute towards their future upkeep through",
+    "options": ["Company shares", "Treasury bills", "Government bonds", "Social Security schemes"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 34,
+    "question": "A constitution may be defined as the",
+    "options": ["bye-laws of a country", "decrees of a country", "customary laws of a country", "highest law of a country"],
+    "answer_index": 3,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 35,
+    "question": "An advantage of a good layout for settlement is that",
+    "options": ["it reduces overcrowding of families", "it promotes trading and church activities", "it makes the inhabitants very rich", "modern houses and schools are built"],
+    "answer_index": 0,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 36,
+    "question": "One responsibility of the Ghanaian citizen is to",
+    "options": ["protect the police", "pay taxes", "work and earn a living", "worship freely"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 37,
+    "question": "In order to protect one’s rights, a citizen should be",
+    "options": ["a law student", "a youth leader", "educated on them", "an observer at court sittings"],
+    "answer_index": 2,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 38,
+    "question": "Which of the following personalities was a member of the United Gold Coast Convention?",
+    "options": ["Kojo Botsio", "J.B. Danquah", "Krobo Edusei", "K. A. Gbedemah"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 39,
+    "question": "The primary function of the legislature is to",
+    "options": ["administer justice", "make laws", "register citizens", "protect wrong doers"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  },
+  {
+    "id": 40,
+    "question": "People who buy company shares receive",
+    "options": ["profits", "dividends", "loans", "overdrafts"],
+    "answer_index": 1,
+    "answered": 500,
+    "image": "",
+    "instruction": " "
+  }
+
+
+
+]
